@@ -164,3 +164,79 @@ Dayananda Sagar Academy of Technology and Management
 📚 Documentation
 
 The detailed academic project report is included in this repository.
+
+---
+
+## 📸 Project Gallery
+
+### 🔌 Circuit Setup
+
+![Circuit Setup](screenshots/circuit-setup.jpg)
+
+The circuit integrates the NodeMCU ESP8266, soil moisture sensor, relay module and supporting components.
+
+### 💻 Arduino IDE / ESP8266 Development
+
+![Arduino IDE](screenshots/arduino-ide.png)
+
+Arduino IDE was used for developing and uploading the ESP8266-based system code.
+
+### 🌱 Wet Soil Testing
+
+![Wet Soil Testing](screenshots/wet-soil-testing.jpg)
+
+Testing the system under wet-soil conditions.
+
+### 🪴 Dry Soil Testing
+
+![Dry Soil Testing](screenshots/dry-soil-testing.jpg)
+
+Testing the system under dry-soil conditions to verify moisture detection and irrigation behavior.
+
+### 📱 Blynk Dashboard & Low-Moisture Alert
+
+![Blynk Dashboard](screenshots/blynk-dashboard-alert.jpg)
+
+The Blynk interface provides remote monitoring and displays a low-soil-moisture notification when the configured threshold is reached.
+
+---
+
+## 💻 Source Code
+
+The Arduino/ESP8266 implementation is available here:
+
+👉 [View Smart Soil Monitoring Code](code/smart-soil-monitoring.ino)
+
+---
+
+## 📚 Project Documentation
+
+The detailed academic project report can be added to this repository under the `docs/` directory.
+
+---
+
+## 🏆 Project Highlights
+
+| Area | Implementation |
+|---|---|
+| Microcontroller | NodeMCU ESP8266 |
+| Programming | Arduino / C++ |
+| Soil Monitoring | Soil Moisture Sensor |
+| Temperature | DS18B20 |
+| IoT Platform | Blynk |
+| Communication | Wi-Fi |
+| Automation | Relay + Water Pump |
+| Alerts | Low Soil Moisture Notification |
+| Control | Automatic + Manual |
+
+---
+
+## 👨‍💻 Project Role
+
+**End-to-End Project Development — Team Member**
+
+Contributed across problem identification, system design, hardware assembly, programming, sensor integration, Blynk setup, irrigation automation, testing, debugging, documentation and presentation.
+
+---
+
+⭐ If you find this project interesting, consider giving the repository a star!
