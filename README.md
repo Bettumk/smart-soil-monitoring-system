@@ -165,7 +165,6 @@ Dayananda Sagar Academy of Technology and Management
 
 The detailed academic project report is included in this repository.
 
----
 
 ## 📸 Project Gallery
 
